@@ -44,7 +44,7 @@ public class CreateTableWithPK {
 
     /**
      *      song table
-     *      |   id  |      title        |        artist         |
+     *      |   id      |      title        |        artist         |
      *      -----------------------------------------------------
      *      |1      |'Let it be'        |'Beatles'              |
      *      |2      |'Hotel California' |'Eagles'               |
